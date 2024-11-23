@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bg65wvv70jgxd"
-path="res://.godot/imported/index.512x512.png-d58d36de992ce78da75957188856fdbf.ctex"
+path="res://.godot/imported/index.512x512.png-d45fdd77d68d7a0f05bf481261927ecf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://build/web/index.512x512.png"
-dest_files=["res://.godot/imported/index.512x512.png-d58d36de992ce78da75957188856fdbf.ctex"]
+source_file="res://build/TheCounterfeitBank_web/index.512x512.png"
+dest_files=["res://.godot/imported/index.512x512.png-d45fdd77d68d7a0f05bf481261927ecf.ctex"]
 
 [params]
 
